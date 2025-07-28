@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 17-year-old coder from India<br>💻 DSA enthusiast, solving LeetCode challenges<br>🚀 Always learning and improving my skills<br>🌱 Passionate about growing as a developer
+👋 18-year-old coder from India<br>💻 DSA enthusiast, solving LeetCode challenges<br>🚀 Always learning and improving my skills<br>🌱 Passionate about growing as a developer
 
 
 ## 🌐 Socials:
