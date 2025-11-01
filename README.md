@@ -15,7 +15,7 @@ if you want to collab or just talk tech, reach out — i’m always down to nerd
 
 ---
 
-### da tech stack  
+### what i know
 
 **languages:**  
 `typescript` · `javascript` · `html5` · `css3` · `python` · `c`  
